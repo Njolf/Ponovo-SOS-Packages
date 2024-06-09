@@ -1,8 +1,0 @@
-cscope.out
-
-*.swp
-*.d
-*.o
-*~
-
-doc/_build
